@@ -61,7 +61,7 @@
 						?>
 					<tbody>
 				</table>
-
+<!-- 
 <script src="jquery/jquery.min.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="datatable/jquery.dataTables.min.js"></script>
@@ -71,7 +71,7 @@
 <script>
 $(document).ready(function(){
     $('#myTable').DataTable();
-    });
+    }); -->
 
     //DataTables is a jQuery plugin that can be used for adding interactive and advanced controls to HTML tables for the webpage. This also allows the data in the table to be searched, sorted, and filtered according to the needs of the user. 
 
